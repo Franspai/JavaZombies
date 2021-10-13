@@ -9,7 +9,7 @@ public class ZombieKiller {
 		
 		String backpack [] = { "Shotgun", "Assult Riffle", "Sniper"};
 		
-		String zombies [] = { "Close-range zombie", "Mid-range zombie", "Long-range zombie"};
+		String zombies [] = { "jockey", "smoker", "Boomer"};
 		
 		System.out.println("Backpack items");
 		System.out.println(backpack[0]);
@@ -20,6 +20,14 @@ public class ZombieKiller {
 		System.out.println(zombies[0]);
 		System.out.println(zombies[1]);
 		System.out.println(zombies[2]);
+		
+		
+		System.out.println("There are 4 jockeys and a smoker attacking, quick take 4 shotgun shots and a Assult riffle shot");
+		System.out.println(backpack[0]);
+		System.out.println(backpack[0]);
+		System.out.println(backpack[0]);
+		System.out.println(backpack[0]);
+		System.out.println(backpack[1]);
 	}
 
 }
